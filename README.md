@@ -3,11 +3,11 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/PeterGamer8K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterGamer8K&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterGamer8K&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/pedromeira220">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromeira220&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromeira220&layout=compact&langs_count=7&theme=dark"/>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PeterGamer8K&repo=movieApp&theme=dark)](https://github.com/PeterGamer8K/movieApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromeira220&repo=movieApp&theme=dark)](https://github.com/pedromeira220/movieApp)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +33,7 @@
 ##
 ### Who am I?
 - Pedro Meira 
-- 15 years old
+- 16 years old
 - Brazilian
 
 ### Favorite technologies:
@@ -56,7 +56,7 @@
 - [TypeScript](https://reactjs.org)
 
 <!--
-**PeterGamer8K/PeterGamer8K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pedromeira220/pedromeira220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
