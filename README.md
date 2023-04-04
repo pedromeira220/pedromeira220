@@ -35,6 +35,7 @@
 - Pedro Meira 
 - 16 years old
 - Brazilian
+- Current working on [Allburn Tech](http://allburn.tech/)
 
 ### Favorite technologies:
 - [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
