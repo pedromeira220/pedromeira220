@@ -22,7 +22,7 @@
 ---
 
 ## 📝 About Me
-🔹 Started coding at 10 years old.  
+🔹 Started coding at 14 years old.  
 🔹 Participated in bootcamps like Rocketseat Ignite.  
 🔹 Built over 80 projects focusing on learning cutting-edge technologies.
 
